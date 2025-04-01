@@ -1,0 +1,91 @@
+Nathan Wood
+EMAIL(EDU): woodn@tamu.edu
+EMAIL(Personal): contact@nwoodweb.xyz
+MAILING ADDRESS: 3258 TAMU, College Station, Texas, USA, 77843
+
+PUBLICATIONS
+
++ 2024; (Pending Review); Wood, N., Doria, E., Li, W., Pei, Z., Qin, H. Assessment of Biocompatibility of 16HBE14o- Human Bronchial Epithelial Cells in Alginate-Methylcellulose Bioinks Revealed Spheroid Formation. Scientific Reports 
++ 2024; Rahman, T.; Wood, N.; Pei, Z.; Qin, H.; Effects of Extreme Temperature on Human Bronchial Epithelial Cells in 3D Printed Samples. MDPI Bioengineering 
++ 2024; Rahman, T., Rahman, A., Pei, Z., Wood, N., Qin, H., Effects of Coaxial Nozzle's Inner Nozzle Diameter on Filament Strength and Gelation in Extrusion-Based Bioprinting with in Situ Ionic Crosslinking. MDPI Journal of Manufacturing and Materials Processing.
++ 2024; (Equal Authorship); Rahman, T.*, Wood, N.*, Akib, Y.A., Qin, H., Pei, Z., Experimental Study on Compatibility of Human Bronchial Epithelial Cells in Collagen- Alginate Bioink for 3D Printing. MDPI Bioengineering
++ 2023; Rahman, T., Woodn, N., Rahman, A.M., Pei, Z., Qin, H., Applying In-Situ Ionic Crosslinking in Bioprinting Using Algae Cells: A Preliminary Study. AMSE Journal of Manufacturing Science and Engineering 
+
+AWARDS
+
++ 2024; Texas A&M Biology Department Engagement Scholarship; 500 USD
++ 2023; DataBlitz Award, TAMU Biology Student/Postdoc Research Conference; 200 USD
++ 2022; Consortium for Mathematics and Its Applications Successful Participant (Problem A)
++ 2022; UF Robert Long Prize in Mathematics; 250 USD
++ 2017-22; Florida Academic Scholar; Full Tuition and Stipend Equivalend 33,020 USD
++ 2016; Eagle Scout
+
+PRESENTATIONS
+
++ 2024; Poster and Tour; Provided U.S Department of Defence and Italian National Research Council officials of Qin Group's cell culture space, provided presentation on work on alginate-methylcellulose bioinks to support growth of human bronchial epithelial and human lung microvascular endothelial cells. Escorted oﬀicials accross Texas A&M University for two days.
++ 2024; 1.5 Minutes; Role of Reactive Oxygen Species in Modulating Ammonium Chemotaxis in Chlamydomonas reinhardtii; TAMU Student/Postdoc Research Conference
++ 2024; Poster; Role of Reactive Oxygen Species in Modulating Ammonium Chemotaxis in Chlamydomonas reinhardtii; TAMU Student/Postdoc Research Conference
++ 2023; 1.5 Minutes; Initial Three Dimensional Constructs of A Set of Ionically Crosslinked Chlorella vulgaris Cell Cultures, TAMU Student/Postdoc Research Conference
++ 2023; Poster; Initial Three Dimensional Constructs of A Set of Ionically Crosslinked Chlorella vulgaris Cell Cultures; TAMU Student/Postdoc Research Conference
+
+TEACHING
+
++ Spring 2024; BIOL206 (TAMU) Introduction to Microbiology Lab (72 Students)
++ Fall 2023; BIOL351 (TAMU) Microbiology Lab (47 Students)
++ Spring 2023; BIOL351 (TAMU) Microbiology Lab (48 Students)
++ Fall 2022; BIOL111 (TAMU) Introductory Biology I Lab (48 Students)
++ Spring 2022; MCB3020L (UF) General Mcirobiology Laboratory (30 Students)
++ Fall 2020; BSC4434C (UF)  Introduction to Bioinformatics (70 Students)
++ Spring 2020; MCB2000L (UF) Microbiology Laboratory (32 Students, SARS-CoV2 Online Transition)
+
+SERVICE
+
++ 2024-Ongoing; Mentoring four undergraduates in research
++ 2024-Ongoing; Mentoring incoming Ph.D student
++ 2023; Mentored incoming Ph.D student
++ 2023; State Level Science Olympiad (High School Division); proctoring and grading of Cell Biology exam, grading of Anatomy and Physiology Exam
++ 2023; Darwin Day (Primary School Audience); exhibition for Department of Biology
++ 2022; Mentored three undergraduates in enzyme kinetics and bioinformatics research
++ 2019; Undergraduate dormitory move-in volunteer, traffic guidance during inclement weather
++ 2019; UF Department of Chemistry ChemaThon Exhibition (High School Audience); demonstrated rapid urease test
++ 2018; Student dormitory move-in volunteer
++ 2017-8; Florida Hospital (now AdventHealth) transportation volunteer; 400 accumulated hours
++ 2017; Eagle Scout Project; lead 33 students in assembly of outdoor pullup bars for my high school
+
+
+TECHNICAL SKILLS
+
++ Biochemistry; Enzyme kinetics, Protein affinity column purification
++ Cell Culture; Human bronchial epithelial (16HBE14o-) and endothelial (HUVEC-5A) lines, 3D scaffold cultures, Air-Liquid Interface (ALI)
++ Molecular; Agarose Gel, SDS-PAGE, Native PAGE, Primer design and verification of vector
++ Optical Microscopy; Wide field microscopy, laser scanning confocal microscopy, PSF approximation, deconvolution software (ImageJ, Nikon)
++ Spectroscopy; Continuous wave EPR, UV-Vis
+
++ Computer Hardware; Assembly/Disassembly, Fault finding, Kernel Compilation/Drivers (Linux for AMD64 systems), RS232, UEFI (Coreboot on AMD64 systems)
++ Computer Languages (By familiarity); R, POSIX Shell, Python, Sed, Awk, LaTeX, HTML/CSS, C
++ Computer Networking; Git, HttpD, NFS, OpenSMTPD, RelayD, PF
++ High Performance Computing; SLURM submission scripting
++ Multimedia; Audio/Video (Audacity, FFMPEG, KdenLive), Raster Graphics (Darktable, GIMP, Imagemagick), Ray Tracing (PovRay), Vector Graphics (Inkscape), Publishing (LaTeX, Scribus)
++ RF; AX.25
+
+LANGUAGES
+
++ English; Native Speaker
++ Arabic (MSA, Masri, Iraqi); 2 years university education
++ Spanish (Latin America); 2 years high school education
+
+ACADEMICS
+
++ 2022-Ongoing; Ph.D Student, Biology, Texas A&M University
++ Earned 2022; B.S Microbiology and Cell Sciences, University of Florida, GPA (3.36)
+
+GENERAL SKILLS
+
++ American Heart Associated CPR/AED/First Aid for Adult and Pediatric Emergencies
++ ARRL Technician License (KN4TTV)
++ Florida Driver‘s License
++ Can lift masses in excess of 25kg (50 Lbs)
+
+LAST UPDATE 4 DECEMBER 2024 1610 UTC
+NATHAN WOOD
+CC-BY-SA-4.0
