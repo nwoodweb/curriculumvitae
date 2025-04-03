@@ -1,14 +1,15 @@
 % BEGIN PREMBLE
 
 \documentclass[11pt]{article}
-\usepackage[margin=1in]{geometry}
+\usepackage[margin=.75in]{geometry}
 
 \usepackage{enumitem}
 \usepackage{titlesec}
 \usepackage{xcolor}
 \usepackage[hidelinks]{hyperref}
+\usepackage{longtable}
+\usepackage{ragged2e}
 \usepackage{tabularx}
-
 \def \fullname{Nathan T. Wood}
 \def \mail {\href{mailto:woodn@tamu.edu}{woodn@tamu.edu}}
 \def \mailalt {\href{mailto:contact@nwoodweb.xyz}{contact@nwoodweb.xyz}}
@@ -22,7 +23,7 @@
 \titleformat{\section}[display]{\normalfont\Large\bfseries\color{secondary}}
 {\thesection}{0.1em}{}[\vspace{0.5em}]
 
-\titlespacing*{\section}{0em}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+\titlespacing*{\section}{0em}{3.25ex plus 1ex minus .2ex}{1ex plus .2ex}
 
 % END PREAMBLE
 
@@ -46,182 +47,150 @@
 \end{center}
 \section*{\color{secondary}{First Author Publications}}
 
-        \begin{tabularx}{\textwidth}{lX}
-		\textbf{2025} & {\textbf{Wood, N.}, Doria, E.D.; Li, W.,
+	\begin{longtable}{p{0.1\textwidth}p{0.9\textwidth}}
+		\textbf{2025} & \textbf{Wood, N.}, Doria, E.D., Li, W.,
 		Pei, Z., Qin, H., \emph{Effects of Calcium Chloride 
 		Crosslinking Solution Concentration on the Long-Term
 		Cell Viability of 16HBE14o- Human Bronchial Cells
-		Embedded in Alginate-Based Hydrogels}. Biomimetics} \\ 
+		Embedded in Alginate-Based Hydrogels}. Biomimetics \\ 
 
-		\textbf{2024} & {(Equal Authorship)
-                        Rahman, T.*, \textbf{Wood, N.*}, Akib, Y.A.,
+		\textbf{2024} & {(Equal Authorship) Rahman, T.*, \textbf{Wood, N.*}, Akib, Y.A.,
                         Qin, H., Pei, Z., \emph{Experimental Study
                         on Compatibility of Human Bronchial 
                         Epithelial Cells in Collagen-Alginate Bioink 
-			for 3D Printing}. MDPI Bioengineering.} \\ 
-	\end{tabularx}
-\section*{\color{secondary}{Other Publications}}
-        \begin{tabularx}{\textwidth}{lX}
-		\textbf{2025} & {(Undergoing Revisions) Taherzadeh, R.,
-		\textbf{Wood, N.}, Pei, Z., Qin, H. \emph{} 
-		Biomimetics} \\ 
-        \end{tabularx}
-        \begin{description}[noitemsep]
-                \item [2024] {Rahman, T., \textbf{Wood, N.},
-                        Pei, Z., Qin, H. \emph{Effects of Extreme Temperature on
-                        Human Bronchial Epithelial Cells in 3D Printed Samples}.
-                MDPI Bioengineering} 
-
-                \item [2024] {Rahman, T., Rahman, A.M,
-                        Pei, Z., \textbf{Wood, N.}, Qin, H.,
-                        \emph{Effects of Coaxial Nozzle's Inner Nozzle Diameter
-                on Filament Strength and Gelation in Extrusion Based Bioprinting
-                with In Situ Ionic Crosslinking}. Journal of Manufacturing
-                and Materials Processing.}
-                \item [2023] {Rahman, T., \textbf{Wood, N.}, Rahman, A.M.,
-                        Pei, Z., Qin, H., \emph{Applying In-Situ 
-                        Ionic Crosslinking in Bioprinting Using
-                        Algae Cells: A Preliminary Study}. American Society 
-                of Mechanical Engineers Journal of Manufacturing Science
-                and Engineering}.
-        \end{description}
+			for 3D Printing}. Bioengineering.}  \\ 
+	\end{longtable}
+\section*{\color{secondary}{Co-Authored Publications}}
+	\begin{longtable}{p{0.1\textwidth}p{0.9\textwidth}}
+		\textbf{2024} & {Rahman, T., \textbf{Wood, N.}, Pei, Z.,
+		Qin, H. \emph{Effects of Extreme Temperature on Human Bronchial
+		Epithelial Cells in 3D Printed Samples.} Bioengineering.} \\ 
+ 		\textbf{2024} & {Rahman, T., Rahman, A.M., Pei, Z., \textbf{Wood, N.},
+		Qin, H., \emph{Effects of Coaxial Nozzle's Inner Nozzle Diameter on
+		Filament Strength and Gelation in Extrusion Based Bioprinting
+		with In Situ Ionic Crosslinking}. Journal of Manufacturing and Materials
+		Processing.} \\ 
+		\textbf{2023} & {Rahman, T., \textbf{Wood, N.}, Rahman, A.M,
+			Pei, Z., Qin, H., \emph{Applying In-Situ Ionic Crosslinking
+			in Bioprinting Using Algae Cells: A Preliminary Study}. American
+			Society of Mechanical Engineers Journal of Manufacturing Science 
+			and Engineering.} \\ 
+        \end{longtable}
 
 \section*{\color{secondary}{Awards}}
-        \begin{description}[noitemsep]
-                \item [2024] {Texas A\&M Department of Biology Engagement Scholarship
-                        - \$500 USD}
-                \item [2023] {DataBlitz Award, TAMU Biology Student/Postdoc 
-        			Research Conference - \$200 USD}
-                 \item [2022] {Consortium for Mathematics and Its Applications
-        			Successful Participant (Problem A)}
-                \item[2022] {UF Robert Long Prize in Mathematics - \$250 USD}
-                \item[2017-22] {Florida Academic Scholar - Full Tuition and 
-			            Stipend equivalent \$33,020 USD}
-                \item[2016] {Eagle Scout}
-        \end{description}
+	\begin{longtable}{p{0.1\textwidth}p{0.7\textwidth}p{0.2\textwidth}}
+		\textbf{2024} & Texas A\&M Department of Biology Engagement Scholarship & \$500 USD \\ 
+		\textbf{2023} & DataBlitz Award, Texas A\&M Biology Student Postdoc Research Conference & \$250 USD \\ 
+		\textbf{2022} & Consortium for Mathematics and Its Applications Successful Participant & \\
+		\textbf{2022} & University of Florida Department of Mathematics Robert Long Prize & \$250 USD \\ 
+		\textbf{2017-22} & {Florida Academic Scholar (Full Tuition and Stipend)} & \$33,000 USD \\ 
+		\textbf{2017} & Eagle Scout & \\ 
+	\end{longtable}
 
 \section*{\color{secondary}{Presentations}}
-        \begin{description}[noitemsep]
-                \item [2024] {\textbf{Poster} \emph{Assessment of Biocompatability
+	\begin{longtable}{p{0.1\textwidth}p{0.15\textwidth}p{0.7\textwidth}}
+		\textbf{2024} & \textbf{Poster} & {\emph{Assessment of Biocompatability
                         of Alginate-Methylcellulose Bioinks for Bioprinting of 16HBE14o- 
                         Human Bronchial Epithelial Cells}, Presented for incoming
                         graduate students and previously U.S Department of Defence
-                        and Italian CNR officials.
-                        }
-                \item [2024] {\textbf{Poster and Tour} Provided U.S Department of 
+			and Italian CNR officials.} \\ 
+		\textbf{2024} & \textbf{Poster/Tour} & Provided U.S Department of 
                         Defence and Italian National Research Council Officials of
                         Qin Group`s cell culture space, provided presentation
                         on work on alginate-methylcellulose bioinks to support
                         growth of human bronchial epithelial and human lung
                         microvascular endothelial cells. Escorted officials across
-                        Texas A\&M University for two days.} 
-                \item [2024] {\textbf{1.5 Minutes} \emph{Role of Reactive Oxygen
-                        Species in Modulating Ammonium Chemotaxis in 
-                        Chlamydomonas reinhardtii}, TAMU Student/Postdoc
-                        Research Conference}
-                \item [2024] {\textbf{Poster} \emph{Role of Reactive
-                        Oxygen Species in Modulating Ammonium
-                        Chemotaxis in Chlamydomonas reinhardtii},
-                        TAMU Student/Postdoc Research Conference}
-                \item [2023] {\textbf{1.5 Minutes} \emph{Initial Three
+			Texas A\&M University for two days. \\ 
+		\textbf{2024} & \textbf{1.5 Minutes} & \emph{Role of reactive oxygen
+			species in modulating ammonium chemotaxis in chlamydomonas reinhardtii},
+			TAMU Biology Student/Postdoc Research Conference. \\ 
+		\textbf{2024} & \textbf{Poster} &  \emph{Role of reactive oxygen
+			species in modulating ammonium chemotaxis in chlamydomonas reinhardtii},
+			TAMU Biology Student/Postdoc Research Conference. \\ 
+		\textbf{2023} & \textbf{1.5 Minutes} & \emph{Initial Three
                         Dimensional Constructs of A Set of Ionically
                         Crosslinked Chlorella vulgaris Cell Cultures},
-                        TAMU Student/Postdoc Research
-                        Conference}
-                \item [2023] {\textbf{Poster}, \emph{Initial Three Dimensional
-                        Constructs of A Set of Ionically
-                        Crosslinked Chlorella vulgaris Cell
-                        Cultures}, TAMU Student/Postdoc Research 
-                        Conference} 
-        \end{description}
+                        TAMU Biology Student/Postdoc Research
+                        Conference. \\ 
+		\textbf{2023} & \textbf{Poster} & \emph{Initial Three
+                        Dimensional Constructs of A Set of Ionically
+                        Crosslinked Chlorella vulgaris Cell Cultures},
+                        TAMU Biology Student/Postdoc Research
+                        Conference. \\ 
 
-\section*{Teaching}
-        \begin{description}[noitemsep]
-                \item [Spring 2024] {\textbf{BIOL206 (TAMU)} - Introduction to 
-                        Microbiology Laboratory (72 Students)}
-                \item [Fall 2023] {\textbf{BIOL351 (TAMU)} - Microbiology Laboratory
-                        (48 Students)}
-                \item [Spring 2023] {\textbf{BIOL351 (TAMU)} - Microbiology
-                        Laboratory (48 Students)}
-                \item [Fall 2022]   {\textbf{BIOL111 (TAMU)} - Introductory
-                        Biology I Laboratory (48 Students)}
-                \item [Spring 2022] {\textbf{MCB3020L (UF)} - General Microbiology
-                        Laboratory (30 Students)}
-                \item [Fall 2020] {\textbf{BSC4434C (UF)} - Introduction to
-                        Bioinformatics (70 Students)}
-                \item [Spring 2020] {\textbf{MCB2000L (UF)} - Microbiology
-                        Laboratory (32 Students, SARS-CoV2 Online Transition)}
-        \end{description}
+	\end{longtable}
 
+\section*{Teaching}	
+	\begin{longtable}{lp{0.2\textwidth}p{0.425\textwidth}p{0.175\textwidth}}
+    		\textbf{Spring 2025} & BIOL351 (TAMU) & Microbiology Laboratory & 48 Students \\
+    		\textbf{Fall 2024} & BIOL351 (TAMU) & Microbiology Laboratory & 48 Students \\
+   		\textbf{Spring 2024} & BIOL206 (TAMU) & Introduction to Microbiology Laboratory & 72 Students \\
+    		\textbf{Fall 2023} & BIOL351 (TAMU) & Microbiology Laboratory & 48 Students \\
+    		\textbf{Spring 2023} & BIOL351 (TAMU) & Microbiology Laboratory & 48 Students \\
+    		\textbf{Fall 2022} & BIOL111 (TAMU) & Introductory Biology I & 48 Students \\
+    		\textbf{Spring 2022} & MCB3020L (UF) & General Microbiology Laboratory & 30 Students \\
+    		\textbf{Fall 2020} & BSC4434C (UF) & Introduction to Bioinformatics & 70 Students \\
+    		\textbf{Spring 2020} & MCB2000L (UF) & Microbiology Laboratory & 32 Students \\
+	\end{longtable}
 \section*{\color{secondary}{Service}} 
-        \begin{description}[noitemsep]
-                \item [2024-Ongoing] {Mentoring four undergraduates in research} 
-                \item [2024-Ongoing] {Mentoring incoming Ph.D student}
-                \item [2024] {Reviewer for Scientific Reports}
-                \item [2023] {Mentored incoming Ph.D student}
-                \item [2023] {State Level Science Olympiad (High School Division),
-                        proctoring and grading of Cell Biology exam,
-                        grading of Anatomy and Physiology exam, cleanup detail}
-                \item [2023] {State level Science Bowl (Department of Energy
-                        sponsored) proctor}
-                \item [2023] {Darwin Day (Primary School Audience) exhibition for
-                        Department of Biology}
-                \item [2022] {Mentored three undergraduates in enzyme kinetics and
-                        bioinformatics research}
-                \item [2019] {Student dormitory move in volunteer, traffic guidance
-                        during inclement weather}
-                \item [2019] {UF Department of Chemistry Chem-A-Thon (High School
-                        Audience), demonstrated rapid urease test}
-                \item [2018] {Student dormitory move in volunteer}
-                \item [2017-8] {Florida Hospital (now Advent Health) Transportation
-                        Volunteer (400 accumulated hours)} 
-                \item [2017] {Eagle Scout Project, lead 33 students in assembly
-                        of outdoor pullup bars for my high school}
-        \end{description}
-
+	\begin{longtable}{p{0.15\textwidth}p{0.8\textwidth}}
+		\textbf{2025} & {Score Judge, Department of Energy Regional Science Bowl
+			(High School)} \\ 
+		\textbf{2024-Ongoing} & {Mentoring four undergraduates} \\ 
+		\textbf{2024} & {Mentoring incoming Ph.D student} \\ 
+		\textbf{2024} & {Reviewer for Scientific Reports} \\ 
+		\textbf{2023} & {Mentored incoming Ph.D student} \\ 
+		\textbf{2023} & {State Level Science Olympiad (High School), proctoring
+		and grading Cell Biology exam, grading Anatomy and Physiology exam} \\ 
+		\textbf{2023} & {Score Judge, Department of Energy Regional Science Bowl (Middle School)} \\ 
+		\textbf{2023} & {Darwin Day (Primary School Audience) exhibition for Department of Biology} \\
+		\textbf{2022} & {Mentored three undergraduates in bioinformatics and enzyme kinetics research} \\
+		\textbf{2019} & {Student dormitory move in volunteer, traffic guidance during inclement weather} \\
+		\textbf{2019} & {UF Department of Chemistry Chem-A-Thon (High School AudiencE), demonstrated
+		rapid urease test} \\ 
+		\textbf{2019} & {Student dormitory move in volunteer} \\ 
+		\textbf{2017-8} & {Florida Hospital (now Advent Health) Transportation Volunteer} \\ 
+		\textbf{2017} & {Eagle Scout Project, lead 33 students in assembly of outdoor pullup
+			bars for East River High School } \\ 
+	\end{longtable}
 \section*{\color{secondary}{Technical Skills}}
-        \begin{description}[noitemsep]
-                \item [Biochemistry:] {Enzyme kinetics, Protein affinity column
-                        purification}
-                \item [Cell Culture:] {Human lung bronchial epithelial 
-                        (16HBE14o-) and endothelial (HUVEC-5A) lines,
-                        3D scaffold cultures, Air-Liquid Interface}
-                \item [Molecular:] {Agarose Gel, SDS-PAGE, Native PAGE, Primer design and
-                         verification of vector}
-                \item [Optical Imaging:] {Wide field and laser scanning confocal
-                        microscopy, PSF approximation, deconvolution software}
-                \item [Spectroscopy:] {Continuous Wave EPR, UV-Vis}
-                \vspace{1em}
-
-                \item [Computer Hardware:] {Assembly/Dissassembly,
-                        BIOS/UEFI (Coreboot installation on AMD64 Systems), 
-                        Fault-finding, Kernel Compilation/Drivers (Linux for
-                        AMD64 Systems), RS232}
-                \item [Computer Languages (By Familiarity):] {R, POSIX Shell, 
-                                Python, Sed, Awk, C}
-                \item [Computer Networking:] {OpenSMTP, HttpD, RelayD, PF}
-                \item [High Performance Computing:] {SLURM submission scripting}
-                \item [Markup (By Familiarity):] {\LaTeX, HTML/CSS, Markdown}
-                \item [Multimedia:] {Audio/Video (Audacity, FFMPEG, KdenLive),
-                        Raster Graphics (Darktable, GIMP, Imagemagick), 
-                        Rendering (PovRay), Vector Graphics (Inkscape),
-                        Publishing (\LaTeX, Scribus)}
-                \item [RF] {AX.25}
-        \end{description}
+	\begin{longtable}{p{0.25\textwidth}p{0.7\textwidth}}
+		\textbf{Biochemistry} & {Enzyme kinetics, affinity column purification} \\ 
+		\textbf{Cell Culture} & {16HBE14o- and HULEC-5A, cell banking and cryopreservation,
+		monolayer cell culture, viability assays (2D and 3D), migration assays (2D and 3D), 3D scaffold
+		culture, Air Liquid Interface} \\ 
+		\textbf{Molecular} & DNA electrophoresis, SDS-PAGE, Native PAGE, ELISA, primer design and
+		verification of vector, TRIZOL/phenol-chloroform extraction, protein extraction \\ 
+		\textbf{Optical Microscopy} & Live cell phase contrast and epifluorescent microscopy, immunofluorescence,
+		laser scanning confocal microscopy, superresolution (Zeiss AiryScan), image analysis \\
+		\textbf{Spectroscopy} & Continuous wave EPR, UV-Vis \\ 
+		 & \\ 
+		 & \\ 
+		\textbf{Computer Hardware} & Assembly and disassembly of components, BIOS/UEFI, Coreboot
+		flashing, fault-finding, kernel compilation and drivers \\
+		\textbf{Computer Languages} & R, POSIX Shell, Python, Sed, Awk, C \\
+		\textbf{Computer Networking} & HttpD, RelayD, PF \\ 
+		\textbf{High Performance Computing} & SLURM scripting \\ 
+		\textbf{Markup} & \LaTeX, HTML/CSS, Markdown \\ 
+		\textbf{Multimedia} & Audio and video (Audacity, FFMPEG, KdenLive), 
+			raster graphics (GIMP, Imagemagick),
+			vector graphics (inkscape),
+			Publishing (\LaTeX)
+	\end{longtable}
 		
 \section*{\color{secondary}{Languages}}
-        \begin{description}[noitemsep]
-                \item [English (USA):] {Native speaker}
-                \item [Arabic (MSA, Masri, Iraqi):] {2 years university education}
-                \item [Spanish (Latin America):] {2 years high school education}
-        \end{description}
+	\begin{longtable}{p{0.3\textwidth}p{0.65\textwidth}}
+		\textbf{English (USA)} & Native Speaker \\
+		\textbf{Arabic (MSA, Masri, Iraqi)} & 2 years university education \\
+		\textbf{Spanish (Latin America)} & 2 years high school education \\ 
+	\end{longtable}
         
 \section*{\color{secondary}{Academics}}
-        \begin{description}[noitemsep]
-                \item [2022-Ongoing] {Ph.D Student, Biology, Texas A\&M University}
-                \item [Earned 2022] {B.S Microbiology and Cell Sciences, University
-                        of Florida}
-        \end{description}
+	\begin{longtable}{lp{0.35\textwidth}p{0.6\textwidth}}
+		\textbf{2022-Ongoing} & Ph.D Student, Microbiology & Texas A\&M University \\
+		\textbf{Earned 2022} & B.S Microbiology and Cell Sciences & University
+                        of Florida \\ 
+        \end{longtable}
 
 \section*{\color{secondary}{General Skills}}
        \begin{description}[noitemsep]
